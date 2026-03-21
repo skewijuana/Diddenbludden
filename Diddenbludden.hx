@@ -1,4 +1,4 @@
-// USE HXDISCORD FOR THIS! ! !
+// USE hxdiscord_rpc FOR THIS! ! !
 // setup a DiscordClient.hx rq and add a static _user:Map<String, Dynamic> and on the onReady() set everything in the _user var
 
 package;
